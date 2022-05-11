@@ -1,16 +1,12 @@
 # flutter_application
 
-A new Flutter project.
+A new Flutter project named SSAPP - Aplicación de Sensores para Seguridad.
 
-## Getting Started
+Apliación orientada al apoyo de la seguridad ciudadana en ambientes de Ciudades Inteligentes.
+Surge como desarrollo de proyecto final para el curso de Ciudades y Territorios Inteligentes.
 
-This project is a starting point for a Flutter application.
+Utiliza el sensado y reporte de situaciones de los usuarios a través de la cámara y micrófono del telefono celular.
 
-A few resources to get you started if this is your first Flutter project:
+Aplicación desarrollada en Flutter, utilizando arquitectura limpia y provider para el manejo de estados. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
